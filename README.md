@@ -19,8 +19,9 @@ The original *East Street Fitness* website was build from scratch. A colleague o
 Websites built with WordPress was intially a challenge for me to integrate. However, it turned out the solution to the problem was very simple. 
 
 #### Challenges
-- BSP didn't really give much information about versioning etc., so I felt I was left in the dark a little to make assumptions. My main assumption was that BSP supported the WireCard Payment Page (WPP) version 2. When WordPress was installed and all the products was added to the store online, I made sure the latest WooCommerce plugin and Wirecard WooCommerce extension was installed. However, this did not work. Solution: I had to revert to an older Wirecard Woocommerce extension that supported WPPv1 and thus, made the change to Wirecard Woocommerce extension v1.6.6.
+- BSP didn't really give much information about versioning etc., so I felt I was left in the dark a little to make assumptions. My main assumption was that BSP supported the WireCard Payment Page (WPP) version 2. When WordPress was installed and all the products was added to the store online, I made sure the latest WooCommerce plugin and Wirecard WooCommerce extension was installed. However, this did not work and the reason was that BSP didn't actually support WPPv2 as yet which was by default what the latest WooCommerce plugin and Wirecard extension used. Solution: I had to revert to an older Wirecard Woocommerce extension that supported WPPv1 and thus, made the change to Wirecard Woocommerce extension v1.6.6.
 
 #### Configuration in WordPress
 This is how the configuration for the Wirecard WooCommerce extension looks like under the Payment tab of the WooCommerce settings page:
+
 

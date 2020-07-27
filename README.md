@@ -25,3 +25,7 @@ Websites built with WordPress was intially a challenge for me to integrate. Howe
 This is how the configuration for the Wirecard WooCommerce extension looks like under the Payment tab of the WooCommerce settings page:
 
 ![Screenshot 1](wp1.PNG)
+![Screenshot 1](wp2.PNG)
+![Screenshot 1](wp3.PNG)
+![Screenshot 1](wp4.PNG)
+![Screenshot 1](wp5.PNG)
